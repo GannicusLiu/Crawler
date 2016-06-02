@@ -23,8 +23,8 @@ import (
 )
 
 var (
-	uname       = "86160255@qq.com"
-	password    = "chixiao1215"
+	uname       = "微博用户名"
+	password    = "微博密码"
 	captchaPath = "../captcha/"
 )
 
